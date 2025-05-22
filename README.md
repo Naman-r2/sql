@@ -6,18 +6,20 @@ This repository contains a collection of PostgreSQL SQL scripts covering topics 
 
 | File Name                    | Description |
 |-----------------------------|-------------|
-| `01_create_tables.sql`      | Creating basic tables with primary keys and constraints. |
-| `02_insert_data.sql`        | Inserting sample data into tables. |
-| `03_select_queries.sql`     | Basic SELECT queries including WHERE clause. |
-| `04_update_delete.sql`      | Examples of UPDATE and DELETE operations. |
-| `05_joins.sql`              | Demonstrates INNER JOIN with multiple tables. |
-| `06_aggregate_functions.sql`| Using aggregate functions like COUNT and AVG. |
-| `07_subqueries_cte.sql`     | Subqueries and Common Table Expressions (CTEs). |
-| `08_indexes.sql`            | Creating indexes to improve query performance. |
-| `09_views.sql`              | Creating views for simplified querying. |
-| `10_stored_procedures.sql`  | Writing stored functions using PL/pgSQL. |
-| `11_transactions.sql`       | Basic use of transactions with COMMIT and ROLLBACK. |
-| `12_triggers.sql`           | Creating triggers and writing audit logs. |
+| `create_tables.sql`      | Creating basic tables with primary keys and constraints. |
+| `insert_data.sql`        | Inserting sample data into tables. |
+| `ddl.sql`                | Examples of DDL operations. |
+| `select_queries.sql`     | Basic SELECT queries including WHERE clause. |
+| `dml.sql`                | Examples of DML operations. |
+| `constraints.sql`        | Demonstrates constraints. |
+| `joins.sql`              | Demonstrates INNER JOIN with multiple tables. |
+| `aggregate_functions.sql`| Using aggregate functions like COUNT and AVG. |
+| `subqueries_cte.sql`     | Subqueries and Common Table Expressions (CTEs). |
+| `indexes.sql`            | Creating indexes to improve query performance. |
+| `views.sql`              | Creating views for simplified querying. |
+| `stored_procedures.sql`  | Writing stored functions using PL/pgSQL. |
+| `transactions.sql`       | Basic use of transactions with COMMIT and ROLLBACK. |
+| `triggers.sql`           | Creating triggers and writing audit logs. |
 
 ## 📌 Usage
 
